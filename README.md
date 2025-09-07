@@ -40,11 +40,12 @@ Interactive visual platform to learn and explore Data Structures and Algorithms.
 
 ## Screenshots / Demo
 
-> *(Add demo images here)*
+![Home Page](https://github.com/SyntaxNova/AlgoVision/blob/master/client/public/algohome.png)
+![Sorting Visualizer](https://github.com/SyntaxNova/AlgoVision/blob/master/client/public/algosorting.png)
+![Graph Visualizer](https://github.com/SyntaxNova/AlgoVision/blob/master/client/public/algograph.png)
+![Graph Visualizer](https://github.com/SyntaxNova/AlgoVision/blob/master/client/public/algograph2.png)
 
-* Sorting Visualizer Demo
-* Graph Visualizer Demo
-* Responsive Dark Theme UI
+
 
 ---
 
